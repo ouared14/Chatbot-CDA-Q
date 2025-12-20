@@ -1,0 +1,38 @@
+datetime,question_user,intent,similarity,matched_question,response,recommendations,satisfaction
+2025-12-20T14:28:31.418349,"Quel est le score moyen selon le type de contenu utilisé (lecture, vidéo, exercices) et le nombre de compétences validées ?",Moyenne des scores,100,"Quel est le score moyen selon le type de contenu utilisé (lecture, vidéo, exercices) et le nombre de compétences validées ?",high,"✅ Très bonne question ! Voici une réponse précise :
+
+Les étudiants utilisant tous les types de contenu et validant davantage de compétences obtiennent un score moyen plus élevé. Les étudiants limités à certains types de contenu stagnent sur les compétences critiques.",,3
+2025-12-20T14:28:38.077464,dddddd,Inconnu,25,Aucune correspondance,low,"🔍 Je vois ce que vous cherchez, mais j’ai besoin de plus de contexte.
+
+Pouvez-vous reformuler ou préciser votre demande ?",,5
+2025-12-20T14:30:25.291359,"Quel est le score moyen selon le type de contenu utilisé (lecture, vidéo, exercices) et le nombre de compétences validées ?",Moyenne des scores,100,"Quel est le score moyen selon le type de contenu utilisé (lecture, vidéo, exercices) et le nombre de compétences validées ?","✅ Très bien, voici la réponse la plus pertinente à votre question :
+
+Les étudiants utilisant tous les types de contenu et validant davantage de compétences obtiennent un score moyen plus élevé. Les étudiants limités à certains types de contenu stagnent sur les compétences critiques.",[],3
+2025-12-20T14:31:07.697062,Quel est le score moyen selon le niveau d’engagement et le type de parcours suivi ?,Moyenne des scores,100,Quel est le score moyen selon le niveau d’engagement et le type de parcours suivi ?,"✅ Très bien, voici la réponse la plus pertinente à votre question :
+
+Les étudiants engagés sur des parcours structurés obtiennent un score moyen plus élevé. Les étudiants peu engagés sur parcours irréguliers stagnent, surtout sur les compétences critiques.",[],4
+2025-12-20T14:31:15.736600,dddddd,Inconnu,25,Aucune correspondance,"🤔 Je comprends votre intention, mais je n’ai pas trouvé de réponse précise.
+
+Pouvez-vous reformuler ou préciser votre demande afin que je puisse mieux vous aider ?",[],2
+2025-12-20T14:33:16.246847,Comment l’intensité d’activité influence-t-elle la validation des compétences ?,Engagement & comportement,100,Comment l’intensité d’activité influence-t-elle la validation des compétences ?,"✅ Très bien, voici la réponse la plus pertinente à votre question :
+
+Une activité modérée mais régulière est plus efficace qu’une forte activité sans amélioration.",[],5
+2025-12-20T14:33:29.512973,Quel est l’impact de la persévérance sur la transition entre les niveaux de compétence ?,Analyse causale,100,Quel est l’impact de la persévérance sur la transition entre les niveaux de compétence ?,"✅ Très bien, voici la réponse la plus pertinente à votre question :
+
+La persévérance favorise des transitions fréquentes et régulières entre niveaux, signe d’un apprentissage durable et bien organisé.",[],2
+2025-12-20T14:37:04.909356,Comment l’intensité d’activité influence-t-elle la validation des compétences ?,Engagement & comportement,100,Comment l’intensité d’activité influence-t-elle la validation des compétences ?,"✅ Ah, vous souhaitez savoir :
+
+Une activité modérée mais régulière est plus efficace qu’une forte activité sans amélioration.",[],3
+2025-12-20T14:55:09.553664,Quelles compétences contribuent le plus au score global final ?,Comparer compétences,100,Quelles compétences contribuent le plus au score global final ?,"📌 Vous touchez un point important.<br><br>Les compétences structurantes (orthographe, conjugaison, syntaxe) expliquent une grande partie du score global. Leur maîtrise différencie clairement les apprenants surperformants des autres.",,3
+2025-12-20T14:57:25.020911,Quelles compétences contribuent le plus au score global final ?,Comparer compétences,100,Quelles compétences contribuent le plus au score global final ?,"Les compétences structurantes (orthographe, conjugaison, syntaxe) expliquent une grande partie du score global. Leur maîtrise différencie clairement les apprenants surperformants des autres.",,4
+2025-12-20T15:32:56.153534,Quelle est l’évolution des scores moyens selon la persévérance et le type de compétence évaluée (difficile ou facile) ?,Évolution dans le temps,100,Quelle est l’évolution des scores moyens selon la persévérance et le type de compétence évaluée (difficile ou facile) ?,"Bonne question 🙂 Les compétences difficiles (7 et 8) montrent une progression régulière uniquement pour les étudiants persistants. Les moins persistants stagnent et abandonnent ces compétences, alors que les compétences faciles progressent plus rapidement.",,4
+2025-12-20T15:34:18.539013,Quel est le score moyen selon le nombre de révisions par compétence et l’intensité des tentatives ?,Moyenne des scores,100,Quel est le score moyen selon le nombre de révisions par compétence et l’intensité des tentatives ?,"Ah, vous souhaitez savoir : Les étudiants révisant régulièrement chaque compétence et multipliant les tentatives obtiennent un score moyen plus élevé. Les étudiants limités aux révisions ponctuelles stagnent.",,3
+2025-12-20T15:56:40.255055,Quel est le niveau d'engagement de l'étudiant 3145 ?,Mesure engagement,100,Quel est le niveau d'engagement de l'étudiant 3145 ?,"Ah, vous souhaitez savoir : L'étudiant est persévérant avec tentatives fréquentes et temps de connexion élevé. Les compétences 7 et 8 sont partiellement validées. L'engagement régulier est corrélé à une meilleure performance globale.",,3
+2025-12-20T15:58:53.278179,Quel est le score moyen selon l’intensité de la participation aux activités collaboratives ?,Moyenne des scores,100,Quel est le score moyen selon l’intensité de la participation aux activités collaboratives ?,Intéressant ! Les étudiants participant intensivement aux activités collaboratives présentent un score moyen plus élevé et valident plus de compétences. Les étudiants peu impliqués stagnent sur les compétences difficiles et présentent des abandons partiels.,,5
+2025-12-20T19:07:51.284388,Quel est le score moyen selon la corrélation entre tentatives et validation des compétences ?,Moyenne des scores,100,Quel est le score moyen selon la corrélation entre tentatives et validation des compétences ?,Les étudiants multipliant les tentatives valident plus de compétences et obtiennent un score moyen plus élevé. Ceux qui abandonnent ou ne réessaient pas stagnent surtout sur les compétences 7 et 8.,,3
+2025-12-20T19:11:48.956172,ddddddddd,Inconnu,21,—,"Je n’ai pas trouvé de réponse précise 🤔
+
+Pouvez-vous reformuler ou préciser votre question ?",,3
+2025-12-20T20:34:35.335549,dddddddddddddddddddd,Inconnu,24,—,"Je n’ai pas trouvé de réponse précise 🤔
+
+Pouvez-vous reformuler ou préciser votre question ?",,1

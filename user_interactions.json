@@ -1,0 +1,340 @@
+[
+  {
+    "datetime": "2025-12-20T14:04:16.537430",
+    "confidence": 100,
+    "intent": "Engagement & comportement",
+    "matched_question": "Comment la gestion de l’effort influence-t-elle la progression des compétences ?",
+    "response": "Une gestion régulière de l’effort favorise des transitions progressives entre niveaux de compétence.",
+    "recommendations": [],
+    "satisfaction": 3
+  },
+  {
+    "datetime": "2025-12-20T14:08:55.381538",
+    "confidence": 100,
+    "intent": "Moyenne des scores",
+    "matched_question": "Quel est le score moyen selon le type de contenu utilisé (lecture, vidéo, exercices) et le nombre de compétences validées ?",
+    "response": "Les étudiants utilisant tous les types de contenu et validant davantage de compétences obtiennent un score moyen plus élevé. Les étudiants limités à certains types de contenu stagnent sur les compétences critiques.",
+    "recommendations": [],
+    "satisfaction": 2
+  },
+  {
+    "datetime": "2025-12-20T14:09:43.909074",
+    "confidence": 100,
+    "intent": "Classement utilisateurs",
+    "matched_question": "Quels sont les apprenants les mieux classés sur toutes les compétences ?",
+    "response": "Les apprenants les mieux classés sont engagés et persévérants. Leur régularité dans les connexions et le travail concentré avant les échéances a permis de minimiser les abandons et les erreurs.",
+    "recommendations": [],
+    "satisfaction": 2
+  },
+  {
+    "datetime": "2025-12-20T14:28:31.418349",
+    "question": "Quel est le score moyen selon le type de contenu utilisé (lecture, vidéo, exercices) et le nombre de compétences validées ?",
+    "intent": "Moyenne des scores",
+    "similarity": 100,
+    "matched_question": "Quel est le score moyen selon le type de contenu utilisé (lecture, vidéo, exercices) et le nombre de compétences validées ?",
+    "response": "✅ Très bonne question ! Voici une réponse précise :\n\nLes étudiants utilisant tous les types de contenu et validant davantage de compétences obtiennent un score moyen plus élevé. Les étudiants limités à certains types de contenu stagnent sur les compétences critiques.",
+    "recommendations": [],
+    "conversation_level": "high",
+    "satisfaction": 3
+  },
+  {
+    "datetime": "2025-12-20T14:28:38.077464",
+    "question": "dddddd",
+    "intent": "Inconnu",
+    "similarity": 25,
+    "matched_question": "Aucune correspondance",
+    "response": "🔍 Je vois ce que vous cherchez, mais j’ai besoin de plus de contexte.\n\nPouvez-vous reformuler ou préciser votre demande ?",
+    "recommendations": [],
+    "conversation_level": "low",
+    "satisfaction": 5
+  },
+  {
+    "datetime": "2025-12-20T14:30:25.291359",
+    "question": "Quel est le score moyen selon le type de contenu utilisé (lecture, vidéo, exercices) et le nombre de compétences validées ?",
+    "intent": "Moyenne des scores",
+    "similarity": 100,
+    "matched_question": "Quel est le score moyen selon le type de contenu utilisé (lecture, vidéo, exercices) et le nombre de compétences validées ?",
+    "response": "✅ Très bien, voici la réponse la plus pertinente à votre question :\n\nLes étudiants utilisant tous les types de contenu et validant davantage de compétences obtiennent un score moyen plus élevé. Les étudiants limités à certains types de contenu stagnent sur les compétences critiques.",
+    "recommendations": [],
+    "satisfaction": 3
+  },
+  {
+    "datetime": "2025-12-20T14:31:07.697062",
+    "question": "Quel est le score moyen selon le niveau d’engagement et le type de parcours suivi ?",
+    "intent": "Moyenne des scores",
+    "similarity": 100,
+    "matched_question": "Quel est le score moyen selon le niveau d’engagement et le type de parcours suivi ?",
+    "response": "✅ Très bien, voici la réponse la plus pertinente à votre question :\n\nLes étudiants engagés sur des parcours structurés obtiennent un score moyen plus élevé. Les étudiants peu engagés sur parcours irréguliers stagnent, surtout sur les compétences critiques.",
+    "recommendations": [],
+    "satisfaction": 4
+  },
+  {
+    "datetime": "2025-12-20T14:31:15.736600",
+    "question": "dddddd",
+    "intent": "Inconnu",
+    "similarity": 25,
+    "matched_question": "Aucune correspondance",
+    "response": "🤔 Je comprends votre intention, mais je n’ai pas trouvé de réponse précise.\n\nPouvez-vous reformuler ou préciser votre demande afin que je puisse mieux vous aider ?",
+    "recommendations": [],
+    "satisfaction": 2
+  },
+  {
+    "datetime": "2025-12-20T14:33:16.246847",
+    "question": "Comment l’intensité d’activité influence-t-elle la validation des compétences ?",
+    "intent": "Engagement & comportement",
+    "similarity": 100,
+    "matched_question": "Comment l’intensité d’activité influence-t-elle la validation des compétences ?",
+    "response": "✅ Très bien, voici la réponse la plus pertinente à votre question :\n\nUne activité modérée mais régulière est plus efficace qu’une forte activité sans amélioration.",
+    "recommendations": [],
+    "satisfaction": 5
+  },
+  {
+    "datetime": "2025-12-20T14:33:29.512973",
+    "question": "Quel est l’impact de la persévérance sur la transition entre les niveaux de compétence ?",
+    "intent": "Analyse causale",
+    "similarity": 100,
+    "matched_question": "Quel est l’impact de la persévérance sur la transition entre les niveaux de compétence ?",
+    "response": "✅ Très bien, voici la réponse la plus pertinente à votre question :\n\nLa persévérance favorise des transitions fréquentes et régulières entre niveaux, signe d’un apprentissage durable et bien organisé.",
+    "recommendations": [],
+    "satisfaction": 2
+  },
+  {
+    "datetime": "2025-12-20T14:37:04.909356",
+    "question": "Comment l’intensité d’activité influence-t-elle la validation des compétences ?",
+    "intent": "Engagement & comportement",
+    "similarity": 100,
+    "matched_question": "Comment l’intensité d’activité influence-t-elle la validation des compétences ?",
+    "response": "✅ Ah, vous souhaitez savoir :\n\nUne activité modérée mais régulière est plus efficace qu’une forte activité sans amélioration.",
+    "recommendations": [],
+    "satisfaction": 3
+  },
+  {
+    "datetime": "2025-12-20T14:55:09.553664",
+    "question": "Quelles compétences contribuent le plus au score global final ?",
+    "intent": "Comparer compétences",
+    "similarity": 100,
+    "matched_question": "Quelles compétences contribuent le plus au score global final ?",
+    "response": "📌 Vous touchez un point important.<br><br>Les compétences structurantes (orthographe, conjugaison, syntaxe) expliquent une grande partie du score global. Leur maîtrise différencie clairement les apprenants surperformants des autres.",
+    "recommendations": [],
+    "satisfaction": 3
+  },
+  {
+    "datetime": "2025-12-20T14:57:25.020911",
+    "question": "Quelles compétences contribuent le plus au score global final ?",
+    "intent": "Comparer compétences",
+    "similarity": 100,
+    "matched_question": "Quelles compétences contribuent le plus au score global final ?",
+    "response": "Les compétences structurantes (orthographe, conjugaison, syntaxe) expliquent une grande partie du score global. Leur maîtrise différencie clairement les apprenants surperformants des autres.",
+    "recommendations": [],
+    "satisfaction": 4
+  },
+  {
+    "datetime": "2025-12-20T15:32:56.153534",
+    "question": "Quelle est l’évolution des scores moyens selon la persévérance et le type de compétence évaluée (difficile ou facile) ?",
+    "intent": "Évolution dans le temps",
+    "similarity": 100,
+    "matched_question": "Quelle est l’évolution des scores moyens selon la persévérance et le type de compétence évaluée (difficile ou facile) ?",
+    "response": "Bonne question 🙂 Les compétences difficiles (7 et 8) montrent une progression régulière uniquement pour les étudiants persistants. Les moins persistants stagnent et abandonnent ces compétences, alors que les compétences faciles progressent plus rapidement.",
+    "recommendations": [],
+    "satisfaction": 4
+  },
+  {
+    "datetime": "2025-12-20T15:34:18.539013",
+    "question": "Quel est le score moyen selon le nombre de révisions par compétence et l’intensité des tentatives ?",
+    "intent": "Moyenne des scores",
+    "similarity": 100,
+    "matched_question": "Quel est le score moyen selon le nombre de révisions par compétence et l’intensité des tentatives ?",
+    "response": "Ah, vous souhaitez savoir : Les étudiants révisant régulièrement chaque compétence et multipliant les tentatives obtiennent un score moyen plus élevé. Les étudiants limités aux révisions ponctuelles stagnent.",
+    "recommendations": [],
+    "satisfaction": 3
+  },
+  {
+    "datetime": "2025-12-20T15:56:40.255055",
+    "question": "Quel est le niveau d'engagement de l'étudiant 3145 ?",
+    "intent": "Mesure engagement",
+    "similarity": 100,
+    "matched_question": "Quel est le niveau d'engagement de l'étudiant 3145 ?",
+    "response": "Ah, vous souhaitez savoir : L'étudiant est persévérant avec tentatives fréquentes et temps de connexion élevé. Les compétences 7 et 8 sont partiellement validées. L'engagement régulier est corrélé à une meilleure performance globale.",
+    "recommendations": [],
+    "satisfaction": 3
+  },
+  {
+    "datetime": "2025-12-20T15:58:53.278179",
+    "question": "Quel est le score moyen selon l’intensité de la participation aux activités collaboratives ?",
+    "intent": "Moyenne des scores",
+    "similarity": 100,
+    "matched_question": "Quel est le score moyen selon l’intensité de la participation aux activités collaboratives ?",
+    "response": "Intéressant ! Les étudiants participant intensivement aux activités collaboratives présentent un score moyen plus élevé et valident plus de compétences. Les étudiants peu impliqués stagnent sur les compétences difficiles et présentent des abandons partiels.",
+    "recommendations": [],
+    "satisfaction": 5
+  },
+  {
+    "datetime": "2025-12-20T19:07:51.284388",
+    "question": "Quel est le score moyen selon la corrélation entre tentatives et validation des compétences ?",
+    "intent": "Moyenne des scores",
+    "similarity": 100,
+    "matched_question": "Quel est le score moyen selon la corrélation entre tentatives et validation des compétences ?",
+    "response": "Les étudiants multipliant les tentatives valident plus de compétences et obtiennent un score moyen plus élevé. Ceux qui abandonnent ou ne réessaient pas stagnent surtout sur les compétences 7 et 8.",
+    "recommendations": [],
+    "satisfaction": 3
+  },
+  {
+    "datetime": "2025-12-20T19:11:48.956172",
+    "question": "ddddddddd",
+    "intent": "Inconnu",
+    "similarity": 21,
+    "matched_question": "—",
+    "response": "Je n’ai pas trouvé de réponse précise 🤔\n\nPouvez-vous reformuler ou préciser votre question ?",
+    "recommendations": [],
+    "satisfaction": 3
+  },
+  {
+    "datetime": "2025-12-20T20:34:35.335549",
+    "question": "dddddddddddddddddddd",
+    "intent": "Inconnu",
+    "similarity": 24,
+    "matched_question": "—",
+    "response": "Je n’ai pas trouvé de réponse précise 🤔\n\nPouvez-vous reformuler ou préciser votre question ?",
+    "recommendations": [],
+    "satisfaction": 1
+  },
+  {
+    "datetime": "2025-12-20T20:38:48.891092",
+    "question": "Donner un résumé statistique des scores et compétences validées pour tous les apprenants.",
+    "intent": "Résumé statistique",
+    "similarity": 100,
+    "matched_question": "Donner un résumé statistique des scores et compétences validées pour tous les apprenants.",
+    "response": "Bonne question 🙂 Les scores totaux varient de 12 à 224. Les apprenants validant plus de 10 compétences présentent un engagement régulier, des tentatives fréquentes et une progression continue, tandis que ceux évalués sur moins de 7 compétences stagnent ou abandonnent.",
+    "recommendations": [],
+    "satisfaction": 3
+  },
+  {
+    "datetime": "2025-12-20T20:42:04.197536",
+    "question": "ddddddddddddd",
+    "intent": "Inconnu",
+    "similarity": 20,
+    "matched_question": "—",
+    "response": "Je n’ai pas trouvé de réponse précise 🤔",
+    "recommendations": [],
+    "satisfaction": 3
+  },
+  {
+    "datetime": "2025-12-20T20:42:36.384234",
+    "question": "Quel est le score moyen selon le nombre de révisions par compétence et l’intensité des tentatives ?",
+    "intent": "Moyenne des scores",
+    "similarity": 100,
+    "matched_question": "Quel est le score moyen selon le nombre de révisions par compétence et l’intensité des tentatives ?",
+    "response": "Bonne question 🙂 Les étudiants révisant régulièrement chaque compétence et multipliant les tentatives obtiennent un score moyen plus élevé. Les étudiants limités aux révisions ponctuelles stagnent.",
+    "recommendations": [],
+    "satisfaction": 1
+  },
+  {
+    "datetime": "2025-12-20T20:48:40.880682",
+    "question": "Quel est le score global moyen pour 9 compétences et la régularité des connexions ?",
+    "intent": "Niveau global de performance",
+    "similarity": 100,
+    "matched_question": "Quel est le score global moyen pour 9 compétences et la régularité des connexions ?",
+    "response": "Le score total moyen est de 128 sur 144. Les apprenants sont persévérants et travaillent régulièrement, mais certaines activités ont été commencées tardivement. La régularité des connexions montre des efforts inégaux.",
+    "recommendations": [],
+    "satisfaction": 2
+  },
+  {
+    "datetime": "2025-12-20T20:53:10.145784",
+    "question": "xxxxxxxxxxxxxxxxxx",
+    "intent": "Inconnu",
+    "similarity": 26,
+    "matched_question": "—",
+    "response": "Je n’ai pas trouvé de réponse précise 🤔",
+    "recommendations": [],
+    "satisfaction": 5
+  },
+  {
+    "datetime": "2025-12-20T20:57:04.027552",
+    "question": "Le score à l'évaluation initiale (diagnostique) est-il un bon prédicteur du score final pour la compétence 'Construire ses phrases' ?",
+    "intent": "analyse causale",
+    "similarity": 100,
+    "matched_question": "Le score à l'évaluation initiale (diagnostique) est-il un bon prédicteur du score final pour la compétence 'Construire ses phrases' ?",
+    "response": "La corrélation est de 0,65, indiquant une relation modérément forte. Un score diagnostique faible n'implique donc pas systématiquement un échec final, grâce à l'effet potentiel de l'apprentissage.",
+    "recommendations": [],
+    "satisfaction": 3
+  },
+  {
+    "datetime": "2025-12-20T21:03:37.400222",
+    "question": "Comment se répartissent les scores (par tranches de 10%25) pour l'ensemble des évaluations de la compétence 'Articuler les termes entre eux' ?",
+    "intent": "analyse descriptive & statistique",
+    "similarity": 95,
+    "matched_question": "Comment se répartissent les scores (par tranches de 10%) pour l'ensemble des évaluations de la compétence 'Articuler les termes entre eux' ?",
+    "response": "Bonne question 🙂 La répartition est polarisée : 28% des scores sont supérieurs à 80%, mais 35% sont inférieurs à 60%. Cette dispersion importante signale des besoins pédagogiques très différenciés.",
+    "recommendations": [],
+    "satisfaction": 3
+  },
+  {
+    "datetime": "2025-12-20T21:05:11.668601",
+    "question": "Donner un résumé statistique des scores et compétences validées pour tous les apprenants.",
+    "intent": "Résumé statistique",
+    "similarity": 100,
+    "matched_question": "Donner un résumé statistique des scores et compétences validées pour tous les apprenants.",
+    "response": "Intéressant ! Les scores totaux varient de 12 à 224. Les apprenants validant plus de 10 compétences présentent un engagement régulier, des tentatives fréquentes et une progression continue, tandis que ceux évalués sur moins de 7 compétences stagnent ou abandonnent.",
+    "recommendations": [],
+    "satisfaction": 2
+  },
+  {
+    "datetime": "2025-12-20T21:13:45.658917",
+    "question": "Quels comportements expliquent un score faible malgré un nombre élevé de tentatives ?",
+    "intent": "Analyse causale",
+    "similarity": 100,
+    "matched_question": "Quels comportements expliquent un score faible malgré un nombre élevé de tentatives ?",
+    "response": "Un nombre élevé de tentatives ne garantit pas le succès. Les apprenants actifs mais inefficaces répètent les activités sans stratégie, abandonnent certaines questions et leur temps passé n’est pas réparti régulièrement, expliquant un score faible.",
+    "recommendations": [],
+    "satisfaction": 3
+  },
+  {
+    "datetime": "2025-12-20T21:21:08.016608",
+    "question": "Donner un résumé statistique des scores et compétences validées pour tous les apprenants.",
+    "intent": "Résumé statistique",
+    "similarity": 100,
+    "matched_question": "Donner un résumé statistique des scores et compétences validées pour tous les apprenants.",
+    "response": "Intéressant ! Les scores totaux varient de 12 à 224. Les apprenants validant plus de 10 compétences présentent un engagement régulier, des tentatives fréquentes et une progression continue, tandis que ceux évalués sur moins de 7 compétences stagnent ou abandonnent.",
+    "recommendations": [],
+    "satisfaction": 4
+  },
+  {
+    "datetime": "2025-12-20T21:29:34.415497",
+    "question": "ddd",
+    "intent": "Inconnu",
+    "similarity": 29,
+    "matched_question": "—",
+    "response": "Je n’ai pas trouvé de réponse précise 🤔",
+    "satisfaction": 2
+  },
+  {
+    "datetime": "2025-12-20T21:40:09.675324",
+    "question": "Donner un résumé statistique des scores et compétences validées pour tous les apprenants.",
+    "intent": "Résumé statistique",
+    "similarity": 100,
+    "matched_question": "Donner un résumé statistique des scores et compétences validées pour tous les apprenants.",
+    "response": "Intéressant ! Les scores totaux varient de 12 à 224. Les apprenants validant plus de 10 compétences présentent un engagement régulier, des tentatives fréquentes et une progression continue, tandis que ceux évalués sur moins de 7 compétences stagnent ou abandonnent.",
+    "recommendations": [],
+    "satisfaction": 2
+  },
+  {
+    "datetime": "2025-12-20T21:40:36.037269",
+    "question": "Quel est le score moyen selon le nombre de révisions par compétence et l’intensité des tentatives ?",
+    "intent": "Moyenne des scores",
+    "similarity": 100,
+    "matched_question": "Quel est le score moyen selon le nombre de révisions par compétence et l’intensité des tentatives ?",
+    "response": "Intéressant ! Les étudiants révisant régulièrement chaque compétence et multipliant les tentatives obtiennent un score moyen plus élevé. Les étudiants limités aux révisions ponctuelles stagnent.",
+    "recommendations": [],
+    "satisfaction": 2
+  },
+  {
+    "datetime": "2025-12-20T21:41:57.292211",
+    "question": "ssss",
+    "intent": "Inconnu",
+    "similarity": 31,
+    "matched_question": "—",
+    "response": "Je n’ai pas trouvé de réponse précise 🤔",
+    "recommendations": [],
+    "satisfaction": 4
+  }
+]
