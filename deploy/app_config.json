@@ -1,0 +1,15 @@
+{
+    "app_name": "AskLAQ2",
+    "version": "1.0.0",
+    "data_files": [
+        "dataset_2026.csv",
+        "embeddings_questions.pt",
+        "user_interactions.json"
+    ],
+    "web_files": [
+        "templates/index.html",
+        "static/script.js"
+    ],
+    "default_port": 7860,
+    "auto_open_browser": true
+}

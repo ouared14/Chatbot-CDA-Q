@@ -1,0 +1,9 @@
+flask
+torch
+pandas
+sentence-transformers
+gradio
+scikit-learn
+numpy
+pyinstaller
+waitress
