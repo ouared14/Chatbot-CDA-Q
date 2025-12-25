@@ -1,0 +1,9 @@
+flask
+torch
+pandas
+sentence-transformers
+gradio
+fastapi
+uvicorn
+a2wsgi
+nest_asyncio
